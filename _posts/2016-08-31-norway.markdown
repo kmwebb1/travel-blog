@@ -1,0 +1,36 @@
+---
+layout: post
+author: Michael Webb
+title: Norway
+date: 2016-08-31
+categories:
+- Overscheduling
+- Scandinavia
+- Takehomes
+permalink: norway/
+image: /assets/photos/norway1.jpg
+image-sm: /assets/photos/norway1-sm.jpg
+---
+
+### Even now, as I stretch my leg out from under my twin comforter, I wonder why more people don’t do [this](www.scandinaviastandard.com/two-duvets-in-scandinavia/)
+
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+Try a block quote here:
+
+>“Fourscore and seven years ago, our fathers brought forth on this continent, a new nation, conceived in liberty, and dedicated to the proposition that all men are created equal”
+
+List:
+
+- first
+- second
+- third
+
+ 
+And, a ![picture](/assets/photos/norway2-sm.jpg)
+
