@@ -5,8 +5,8 @@
     <description></description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 28 Aug 2017 17:54:16 -0700</pubDate>
-    <lastBuildDate>Mon, 28 Aug 2017 17:54:16 -0700</lastBuildDate>
+    <pubDate>Tue, 29 Aug 2017 07:10:29 -0700</pubDate>
+    <lastBuildDate>Tue, 29 Aug 2017 07:10:29 -0700</lastBuildDate>
     <generator>Jekyll v3.1.6</generator>
     
       <item>
@@ -72,7 +72,7 @@ proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&g
       </item>
     
       <item>
-        <title>Tanzania</title>
+        <title>Tanzania and Kilimanjaro</title>
         <description>&lt;h3 id=&quot;first-problem--margaret-really-didnt-want-to-go&quot;&gt;First problem- Margaret &lt;em&gt;really&lt;/em&gt; didn’t want to go&lt;/h3&gt;
 
 &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
@@ -82,12 +82,16 @@ consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
 cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
 proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;kili-sm.jpg&quot; alt=&quot;sunset at Camp 2&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/photos/kili-sm.jpg&quot; alt=&quot;sunset at Camp 2&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Sun, 09 Sep 2012 00:00:00 -0700</pubDate>
-        <link>/2012/09/09/tanzania/</link>
-        <guid isPermaLink="true">/2012/09/09/tanzania/</guid>
+        <link>/tanzania/</link>
+        <guid isPermaLink="true">/tanzania/</guid>
         
+        
+        <category>Tanzania</category>
+        
+        <category>Obstacles</category>
         
       </item>
     
