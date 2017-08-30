@@ -17,7 +17,7 @@ layout: default
       <ul class="tabs">
         <li class="tabs__item">Posts</li>
         <li class="tabs__item">Categories</li>
-        <li class="tabs__item">About</li>
+        <li class="tabs__item">About</a></li>
       </ul>
     </header>
 
@@ -28,8 +28,12 @@ layout: default
             <a class="preview__link" href="{{ post.url | prepend: site.baseurl }}" itemprop="url">
               <span class="preview__date" itemprop="datePublished" datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%b %-d, %Y" }}</span>
               <h2 class="preview__header" itemprop="name">{{ post.title }}</h2>
+              {% if post.author %}
+              <p class="preview__date" itemprop="author">by {{ post.author }}</p>
+              {% endif %}
               <p class="preview__excerpt" itemprop="description">{{ post.content | strip_html | truncatewords: 30 }}</p>
               <span class="preview__more">Read More</span>
+              
             </a>
           </li>
         {% endfor %}
@@ -51,7 +55,16 @@ layout: default
     </div>
 
     {% include categories-tab.html %}
-
+    
+    <div class="tab">
+      <div style="padding-top: 50px; padding-left: 120px; padding-right: 50px;">
+      {% capture my_include %} {% include about.md %} {% endcapture %}
+      {{ my_include | markdownify }}
+      </div>
+    </div>
   </div>
+
+
+
 
 </section>

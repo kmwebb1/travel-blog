@@ -1,14 +1,17 @@
 
+<h2 style="color: #9f8f68;">Heading</h2>
 
-<div class="tab">
-    
-### Welcome to intentional travel  
+---
 
-We started this page to create a community of like minded travelers who want to travel with ease and joy- with intention. \\
+_List_
 
-List
-* one
-* two
-* three
+1.  Item 1
+2.  Item 2  
 
-</div>
+This is a quote:
+
+> "Quote"
+
+And last, a [link](http://google.com){:target=_"blank"}
+
+
