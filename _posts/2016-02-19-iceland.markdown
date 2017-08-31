@@ -4,7 +4,7 @@ title: "Iceland"
 date: 2014-09-03
 categories:
   - Iceland
-  - Spas/Relaxation
+  - Spa/Relaxation
   - Takehomes
 description: 
 image: /assets/photos/gulfoss.jpg

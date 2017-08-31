@@ -1,6 +1,8 @@
 ---
 layout: default
 ---
+{% assign author = site.data.authors[page.author] %}
+
 <article itemprop="blogPost" itemscope itemtype="http://schema.org/BlogPosting">
 
   <header class="section-padding--lg mast rellax" data-rellax-speed="-4">
@@ -19,6 +21,9 @@ layout: default
           {% endfor %}
         </span>
       {% endif %}
+      {% if author %}
+      <span>by {{ author.name }}</span>
+      {% endif %}
       <span></span>
     </div>
   </header>
@@ -32,18 +37,21 @@ layout: default
   <section class="profile">
     <div class="profile__card">
       <div class="profile__img">
-        <figure class="absolute-bg" style="background-image: url('{{ site.profile_img }}');"></figure>
+        <figure class="absolute-bg" style="background-image: url('{{ author.profile_img }}');"></figure>
       </div>
       <div class="profile__container">
-        <p>{{ site.profile }}</p>
-        {% if site.email or site.social %}
+        <p>{{ author.profile }}</p>
+        {% if author.email or author.facebook or author.twitter %}
           <ul class="profile__social">
-            {% if site.email %}
-              <li><a class="fa fa-lg fa-envelope-o" href="mailto:{{ site.email }}"></a></li>
+            {% if author.email %}
+              <li><a class="fa fa-lg fa-envelope-o" href="mailto:{{ author.email }}"></a></li>
             {% endif %}
-            {% for social in site.social %}
-              <li><a class="fa fa-lg fa-{{ social[0] }}" href="{{ social[1] }}" target="_blank"></a></li>
-            {% endfor %}
+            {% if author.facebook %}
+              <li><a class="fa fa-lg fa-facebook-official" href="{{ author.facebook }}" target="_blank"></a></li>
+            {% endif %}
+            {% if author.twitter %}
+            <li><a class="fa fa-lg fa-twitter-square" aria-hidden="true"" href="{{ author.twitter }}" target="_blank"></a></li>
+            {% endif %}
           </ul>
         {% endif %}
       </div>

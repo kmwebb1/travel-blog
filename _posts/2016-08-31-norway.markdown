@@ -1,6 +1,6 @@
 ---
 layout: post
-author: Michael Webb
+author: michael_webb
 title: Norway
 date: 2016-08-31
 categories:
@@ -12,7 +12,7 @@ image: /assets/photos/norway1.jpg
 image-sm: /assets/photos/norway1-sm.jpg
 ---
 
-### Even now, as I stretch my leg out from under my twin comforter, I wonder why more people don’t do [this](www.scandinaviastandard.com/two-duvets-in-scandinavia/)
+### Even now, as I stretch my leg out from under my twin comforter, I wonder why more people don’t do [this](http://www.scandinaviastandard.com/two-duvets-in-scandinavia/){:target="_blank"}
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,

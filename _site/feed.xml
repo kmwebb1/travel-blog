@@ -5,13 +5,31 @@
     <description></description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 30 Aug 2017 16:30:45 -0700</pubDate>
-    <lastBuildDate>Wed, 30 Aug 2017 16:30:45 -0700</lastBuildDate>
+    <pubDate>Thu, 31 Aug 2017 10:44:30 -0700</pubDate>
+    <lastBuildDate>Thu, 31 Aug 2017 10:44:30 -0700</lastBuildDate>
     <generator>Jekyll v3.1.6</generator>
     
       <item>
+        <title>Tofino</title>
+        <description>&lt;h3 id=&quot;heading-1&quot;&gt;Heading 1&lt;/h3&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus cursus sed sem porta vulputate. Aliquam vitae lacus a dolor molestie laoreet. Nulla gravida leo nec ligula eleifend, sed lacinia neque placerat. Etiam a faucibus massa. In sed odio augue. Quisque diam augue, accumsan et auctor a, egestas in purus. Quisque quis risus orci. Aliquam a tellus venenatis, faucibus lorem eget, sollicitudin velit. Proin vitae felis ut lorem cursus pulvinar ut vel velit. Pellentesque vitae eleifend lacus. Vivamus enim lacus, laoreet nec volutpat et, efficitur non sapien. Nam sed vehicula nibh.&lt;/p&gt;
+
+</description>
+        <pubDate>Wed, 30 Aug 2017 00:00:00 -0700</pubDate>
+        <link>/tofino/</link>
+        <guid isPermaLink="true">/tofino/</guid>
+        
+        
+        <category>Canada</category>
+        
+        <category>Spa/Relaxation</category>
+        
+      </item>
+    
+      <item>
         <title>Norway</title>
-        <description>&lt;h3 id=&quot;even-now-as-i-stretch-my-leg-out-from-under-my-twin-comforter-i-wonder-why-more-people-dont-do-thiswwwscandinaviastandardcomtwo-duvets-in-scandinavia&quot;&gt;Even now, as I stretch my leg out from under my twin comforter, I wonder why more people don’t do &lt;a href=&quot;www.scandinaviastandard.com/two-duvets-in-scandinavia/&quot;&gt;this&lt;/a&gt;&lt;/h3&gt;
+        <description>&lt;h3 id=&quot;even-now-as-i-stretch-my-leg-out-from-under-my-twin-comforter-i-wonder-why-more-people-dont-do-thishttpwwwscandinaviastandardcomtwo-duvets-in-scandinaviatargetblank&quot;&gt;Even now, as I stretch my leg out from under my twin comforter, I wonder why more people don’t do &lt;a href=&quot;http://www.scandinaviastandard.com/two-duvets-in-scandinavia/&quot; target=&quot;_blank&quot;&gt;this&lt;/a&gt;&lt;/h3&gt;
 
 &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
@@ -106,7 +124,7 @@ proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&g
         
         <category>Iceland</category>
         
-        <category>Spas/Relaxation</category>
+        <category>Spa/Relaxation</category>
         
         <category>Takehomes</category>
         
